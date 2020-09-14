@@ -7,3 +7,8 @@ In this track, you'll learn how this versatile language allows you to import, cl
 * Aggregating Data
 * Slicing and indexing
 * Creating and Visualizing DataFrames
+
+## Python Data Science Toolbox (Part 2)
+* Using iterators in PythonLand
+* List comprehensions and generators
+* Bringing it all together!
