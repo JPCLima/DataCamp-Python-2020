@@ -12,3 +12,8 @@ In this track, you'll learn how this versatile language allows you to import, cl
 * Using iterators in PythonLand
 * List comprehensions and generators
 * Bringing it all together!
+
+## Introduction to Importing Data in Python
+* Introduction and flat files
+* Importing data from other file types
+* Working with relational databases in Python
