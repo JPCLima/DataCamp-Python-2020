@@ -17,3 +17,7 @@ In this track, you'll learn how this versatile language allows you to import, cl
 * Introduction and flat files
 * Importing data from other file types
 * Working with relational databases in Python
+
+
+## [Projects](Projects)
+* [TV, Halftime Shows, and the Big Game](Projects/1.%20TV,%20Halftime%20Shows,%20and%20the%20Big%20Game)
