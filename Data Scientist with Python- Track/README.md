@@ -19,6 +19,12 @@ In this track, you'll learn how this versatile language allows you to import, cl
 * Working with relational databases in Python
 
 
+## [Writing Functions in Python](Writing%20Functions%20in%20Python)
+* Best Practices
+* Context Managers
+* Decorators
+* More in Decorators
+
 ## [Projects](Projects)
 * [TV, Halftime Shows, and the Big Game](Projects/1.%20TV,%20Halftime%20Shows,%20and%20the%20Big%20Game)
 * [The Android App Market on Google Play](Projects/2.%20The%20Android%20App%20Market%20on%20Google%20Play)
