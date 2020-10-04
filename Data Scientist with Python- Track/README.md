@@ -25,6 +25,12 @@ In this track, you'll learn how this versatile language allows you to import, cl
 * Decorators
 * More in Decorators
 
+## [Working with Dates and Times in Python]()
+* Dates and Calendars
+* Combining Dates and Times
+* Time Zones and Daylight Saving
+* Easy and Powerful: Dates and Times in Pandas
+
 ## [Projects](Projects)
 * [TV, Halftime Shows, and the Big Game](Projects/1.%20TV,%20Halftime%20Shows,%20and%20the%20Big%20Game)
 * [The Android App Market on Google Play](Projects/2.%20The%20Android%20App%20Market%20on%20Google%20Play)
